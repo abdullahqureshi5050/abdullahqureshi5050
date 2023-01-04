@@ -58,7 +58,7 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abdullahqureshi5050)](https://git.io/streak-stats)
-[![Usman Khan](https://github-readme-stats.vercel.app/api?username=abdullahqureshi5050&count_private=true&show_icons=true&theme=dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/abdullahqureshi5050/abdullahqureshi5050)) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahqureshi5050&count_private=true&show_icons=true&theme=dark&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/abdullahqureshi5050/abdullahqureshi5050))
+[![Abdullah Qureshi](https://github-readme-stats.vercel.app/api?username=abdullahqureshi5050&count_private=true&show_icons=true&theme=dark)]([https://github.com/abdullahqureshi5050/github-readme-stats](https://github.com/abdullahqureshi5050/abdullahqureshi5050)) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahqureshi5050&count_private=true&show_icons=true&theme=dark&layout=compact)]([https://github.com/abdullahqureshi5050/github-readme-stats](https://github.com/abdullahqureshi5050/abdullahqureshi5050))
 
 
 </div>
