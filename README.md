@@ -21,7 +21,7 @@
 - :round_pushpin: I’m currently working on Solana Blockchain with MERN STACK & React Native. 
 
 📫 How to reach me: 
->[![linkedin](https://user-images.githubusercontent.com/75361545/205706651-63e48c3d-3a9e-4a0a-902f-8d05995981eb.png)](URL HERE)[![icons8-mail-48](https://user-images.githubusercontent.com/75361545/205708010-1b0de459-a10c-4d44-b649-5005f6038763.png)](URL)
+>[![linkedin](https://user-images.githubusercontent.com/75361545/205706651-63e48c3d-3a9e-4a0a-902f-8d05995981eb.png)](https://www.linkedin.com/in/abdullah-qureshi-642260b4/)[![icons8-mail-48](https://user-images.githubusercontent.com/75361545/205708010-1b0de459-a10c-4d44-b649-5005f6038763.png)](URL)
 
 <!--  Tools sections  -->
 :stars: Languages and tools:
