@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdullahqureshi5050
-- 👀 I’m interested in GameFi, Solana, React-Native, MERN, firebase, Digital Ocean, Heroku.
+- 👀 I’m interested in GameFi, Solana, React-Native, MERN, firebase, Digital Ocean, Heroku, Azure.
 - 🌱 I’m currently writing thesis and working on GameFi, Eth, and Solana Projects. 
 - 💞️ I’m looking to collaborate on GameFi Projects. 
 - 📫 How to reach on my insta -> https://www.instagram.com/abdullah_codes/ 
