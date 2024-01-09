@@ -15,7 +15,7 @@
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Solana Blockchain | MERN | React Native
+- 🖥 Senior Frontend Developer | Solana Blockchain | MERN | React Native
 - 🔭 Always Learning <i>new</i> <b> Tools and more about Modern Technologies.</b>
 - 🎓 Software Engineer 
 - :round_pushpin: I’m currently working on Solana Blockchain with MERN STACK & React Native. 
