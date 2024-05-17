@@ -15,7 +15,7 @@
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Senior Frontend Developer | React Native Expo
+- 🖥 Senior Frontend Developer | React JS | Next JS | React Native Expo
 - 🔭 Always Learning <i>new</i> <b> Tools and more about Modern Technologies.</b>
 - 🎓 Software Engineer 
 - :round_pushpin: I’m currently working on React JS. 
