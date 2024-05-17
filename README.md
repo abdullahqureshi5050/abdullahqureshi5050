@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abdullahqureshi5050
-- 👀 I’m interested in GameFi, Solana, React-Native, MERN, firebase, Digital Ocean, Heroku, Azure.
-- 🌱 I’m currently writing thesis and working on GameFi, Eth, and Solana Projects. 
-- 💞️ I’m looking to collaborate on GameFi Projects. 
-- 📫 How to reach on my insta -> https://www.instagram.com/abdullah_codes/ 
+- 👀 I’m interested in React JS, Next JS React-Native, firebase, Digital Ocean, Heroku, Azure.
+- 🌱 I’m currently working on React JS/ Next JS with TypeScript. 
+- 💞️ I’m looking to collaborate on interesting Projects. 
+- 📫 How to reach on my linkedIn -> https://www.linkedin.com/in/abdullah-qureshi-642260b4/ 
 
 <p align="center">
   <img src= "https://komarev.com/ghpvc/?username=kashan-1&style=for-the-badge">
@@ -15,10 +15,10 @@
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Senior Frontend Developer | Solana Blockchain | MERN | React Native
+- 🖥 Senior Frontend Developer | React Native Expo
 - 🔭 Always Learning <i>new</i> <b> Tools and more about Modern Technologies.</b>
 - 🎓 Software Engineer 
-- :round_pushpin: I’m currently working on Solana Blockchain with MERN STACK & React Native. 
+- :round_pushpin: I’m currently working on React JS. 
 
 📫 How to reach me: 
 >[![linkedin](https://user-images.githubusercontent.com/75361545/205706651-63e48c3d-3a9e-4a0a-902f-8d05995981eb.png)](https://www.linkedin.com/in/abdullah-qureshi-642260b4/)[![icons8-mail-48](https://user-images.githubusercontent.com/75361545/205708010-1b0de459-a10c-4d44-b649-5005f6038763.png)](URL)
